@@ -2,7 +2,7 @@
 
 Proyek analisis data mandiri untuk mengevaluasi performa penjualan dan profitabilitas perusahaan ritel global pada rentang waktu 2011–2014. 
 
-![Dashboard Power BI](dashboard.png)
+![Dashboard Power BI](Dashboard.png)
 
 ## 📌 Tentang Proyek
 Proyek ini bertujuan untuk mengubah raw dataset berskala besar menjadi wawasan bisnis (*business insights*) yang dapat ditindaklanjuti. Proses mencakup pembersihan data, pemodelan data (relasi tabel), hingga pembuatan *dashboard* untuk memantau metrik utama perusahaan.
